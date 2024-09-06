@@ -1,0 +1,34 @@
+_repo: Ruumiin-elimista-ja-niiden-toimista_74241
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Palmén, J. A. (Johan Axel)
+    aliases:
+    - Palmen, J. A.
+    - Palmén, Johan Axel, friherre
+    - Palmén, Johan Axel, Baron
+    birthdate: 1845
+    deathdate: 1919
+    gutenberg_agent_id: '57407'
+    url: http://www.gutenberg.org/2009/agents/57407
+    wikipedia: https://fi.wikipedia.org/wiki/Johan_Axel_Palm%C3%A9n
+description: ''
+gutenberg_issued: '2024-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74241'
+language: fi
+pgterms:marc905: 20240809062651jmp
+pgterms:marc906: '1878'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bSuomalaisen Kirjallisuuden Seura, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anatomy'
+- !lcc 'QP'
+- GITenberg
+title: Ruumiin elimistä ja niiden toimista
+url: http://www.gutenberg.org/ebooks/74241
